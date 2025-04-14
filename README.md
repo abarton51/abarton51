@@ -7,7 +7,7 @@ I'm a student veteran 🎓 at Georgia Tech studying
 - :pencil2: **Mathematics**, concentration in Data Science
 - 🖱️ **Computer Science**, concentration in AI and IT
 
-I have relevant experience such as:
+Relevant Work Experience:
 - SDE Intern at Amazon Web Services (AWS) for Summer of 2024 🖥️
 - NSF and NSA sponsored Undergraduate Researcher at NC State University for Summer of 2023 :microscope:
 
