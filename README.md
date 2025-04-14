@@ -7,7 +7,9 @@ I'm a student veteran 🎓 at Georgia Tech studying
 - :pencil2: **Mathematics**, concentration in Data Science
 - 🖱️ **Computer Science**, concentration in AI and IT
 
-Former SDE Intern at Amazon Web Services (AWS) for Summer of 2024 🖥️
+I have relevant experience such as:
+- SDE Intern at Amazon Web Services (AWS) for Summer of 2024 🖥️
+- NSF and NSA sponsored Undergraduate Researcher at NC State University for Summer of 2023 :microscope:
 
 -------
 <h3 align="center">🍎 About Me</h3>
