@@ -74,6 +74,8 @@ Relevant Work Experience:
 
 **Web Development**
 
+![alt text](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=react&logoColor=white)
+![alt text](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=react&logoColor=white)
 ![alt text](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![alt text](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
