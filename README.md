@@ -8,6 +8,7 @@ I'm a student veteran 🎓 at Georgia Tech studying
 - 🖱️ **Computer Science**, concentration in AI and IT
 
 Relevant Work Experience:
+- Technologist Intern at Black Cape for Summer of 2025 🖥️
 - SDE Intern at Amazon Web Services (AWS) for Summer of 2024 🖥️
 - NSF and NSA sponsored Undergraduate Researcher at NC State University for Summer of 2023 :microscope:
 
