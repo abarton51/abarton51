@@ -4,7 +4,7 @@
 </p>
 
 I'm a student veteran 🎓 at Montana State University studying
-- :laptop: **Cybersecurity**
+- **Cybersecurity**
 
 Georgia Tech alumnus
 - :pencil2: **B.S. in Mathematics**, concentration in Data Science
