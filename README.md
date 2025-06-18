@@ -3,9 +3,12 @@
   <a href="https://www.linkedin.com/in/abarton01">Connect</a>
 </p>
 
-I'm a student veteran 🎓 at Georgia Tech studying
-- :pencil2: **Mathematics**, concentration in Data Science
-- 🖱️ **Computer Science**, concentration in AI and IT
+I'm a student veteran 🎓 at Montana State University studying
+- :laptop: **Cybersecurity**
+
+Georgia Tech alumnus
+- :pencil2: **B.S. in Mathematics**, concentration in Data Science
+- 🖱️ **B.S. in Computer Science**, concentration in AI and IT
 
 Relevant Work Experience:
 - Technologist Intern at Black Cape for Summer of 2025 🖥️
